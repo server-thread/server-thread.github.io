@@ -1,3 +1,8 @@
 # **ServerThread.tech**
 
-| Home | About Us | Our Sevices | Contact Us |
+| Home | About | Sevices | Contact 
+
+## Our Services:
+
+- [ ] ERPNext Infrastructure Development
+- [ ] Wordpress Deployment and Administration
